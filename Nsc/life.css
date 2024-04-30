@@ -1,0 +1,42 @@
+@font-face {
+    font-family:happy life ;
+    src: url(KOLAK.ttf);
+}
+@font-face {
+    font-family: myFont;
+    src: url(josephsophia.ttf);
+}
+@font-face {
+    font-family: abrar;
+    src: url(Hey\ Comic.ttf);
+}
+@font-face {
+    font-family: pathan;
+    src: url(Best\ Valentina\ TTF.ttf);
+}
+@font-face {
+    font-family: evil;
+    src: url(EVILDEAD.TTF);
+}
+@font-face {
+    font-family: love;
+    src: url(Lover.ttf);
+}
+@font-face {
+    font-family:lover ;
+    src: url(Love.ttf);
+}
+
+h1{
+    font-family: love;
+    color: #FFB6C1;
+    font-style: inherit;
+}
+
+
+p{
+    font-family: happy life;
+    color: gold;
+    font-size: 25px;
+    
+}

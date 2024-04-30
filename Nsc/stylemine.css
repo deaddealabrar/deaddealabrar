@@ -1,0 +1,96 @@
+body{
+    margin: auto;
+}
+
+
+
+@font-face {
+    font-family:happy life ;
+    src: url(KOLAK.ttf);
+}
+@font-face {
+    font-family: myFont;
+    src: url(josephsophia.ttf);
+}
+@font-face {
+    font-family: abrar;
+    src: url(Hey\ Comic.ttf);
+}
+@font-face {
+    font-family: pathan;
+    src: url(Best\ Valentina\ TTF.ttf);
+}
+
+
+
+h6{
+    text-align: center;
+    background-color:#b42132 ;
+    padding: 0%;
+    margin: auto;
+    color:#c98d94 ;
+    -webkit-text-stroke:0.1px  black ;
+    font-family: myFont;
+    font-size: 30px;
+    font-size: 3em;
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: #bb3b45;
+    padding: 7px;
+    margin: 7px;
+    overflow: hidden;
+}
+
+
+.navbar a{
+    color: #ffffff;
+    text-decoration: none;
+    font-family: happy life;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    border: 2px solid rgb(97, 20, 20);
+}
+
+
+.navbar a:hover{
+    background-color: #991320;
+}
+
+.navbarli{
+    float:left;
+}
+
+
+
+
+h2{
+    color: #e6dddd;
+    -webkit-text-stroke: 0.5px #000000;
+    font-family:abrar;
+    font-size: 30px;
+    font-size: 2em;
+}
+
+
+p{
+    font-family: pathan;
+    color: #1d5c97;
+    font-size: 40px;
+    font-size: 3em;
+    -webkit-text-stroke:0.5px #000000;
+    margin: auto;
+    
+}
+
+h3{
+    color: #000000;
+    font-family: abrar;
+    -webkit-text-stroke: 0.5px white;
+    font-size: 30px;
+    font-size: 2em;
+}
+

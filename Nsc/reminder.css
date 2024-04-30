@@ -1,0 +1,82 @@
+@font-face {
+    font-family:happy life ;
+    src: url(KOLAK.ttf);
+}
+@font-face {
+    font-family: myFont;
+    src: url(josephsophia.ttf);
+}
+@font-face {
+    font-family: abrar;
+    src: url(Hey\ Comic.ttf);
+}
+@font-face {
+    font-family: pathan;
+    src: url(Best\ Valentina\ TTF.ttf);
+}
+@font-face {
+    font-family: evil;
+    src: url(EVILDEAD.TTF);
+}
+@font-face {
+    font-family: love;
+    src: url(Lover.ttf);
+}
+@font-face {
+    font-family:lover ;
+    src: url(Love.ttf);
+}
+
+
+
+
+body{
+    margin: 20px;
+}
+
+h2{
+    color: #ac2886;
+    font-family: abrar;
+    -webkit-text-stroke: 0.5px black;
+    font-size: 20px;
+    font-size: 2em;
+}
+
+h1{
+    color: #572649;
+    font-family: love;
+    margin:100px;
+}
+
+table{
+    width: 800px;
+    padding: 35px 45px;
+}
+
+
+th{
+    text-align: left;
+    color: pink;
+    font-family: abrar;
+    font-size: 20px;
+    font-size: 2em;
+    padding: 0%;
+}
+
+
+td{
+    text-align: left;
+    color: beige;
+    font-family: evil;
+    font-size: 15px;
+    font-size: 1em;
+}
+
+
+table, th, td {
+    border: 2px solid rgb(199, 87, 87);
+    -webkit-text-stroke: 0.3px black;
+    margin: 20px;
+    padding: 10px;
+    border-collapse: collapse;
+}
